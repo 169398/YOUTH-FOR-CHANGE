@@ -6,15 +6,14 @@ const ScrollButton = styled.button`
   position: fixed;
   bottom: 20px;
   right: 20px;
-  background-color: #007bff;
-  color: #fff;
+  background-color: #afd8fa;
+  color: #58a3f4;
   border: none;
   border-radius: 5px;
   padding: 10px 15px;
-  cursor: pointer;
   transition: background-color 0.3s ease-in-out;
   font-size: 16px;
-
+  cursor: pointer;
   &:hover {
     background-color: #0056b3;
   }
