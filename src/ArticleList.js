@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import styled from "styled-components";
-const apiKey = process.env.REACT_APP_API_KEY;
+const apiKey = "44d4f56d26614ecea47bcf5d71a43cc1";
 
 const ArticleListContainer = styled.div`
   display: flex;
